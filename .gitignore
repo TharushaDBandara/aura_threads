@@ -1,0 +1,21 @@
+# OS files
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# VS Code
+.vscode/
+.code-workspace
+
+# Logs & zips
+*.log
+*.zip
+*.7z
+*.rar
+
+# Node artifacts (if any experiments later)
+node_modules/
+dist/
+
+# Misc
+.DS_Store
