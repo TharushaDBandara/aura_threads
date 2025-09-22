@@ -76,7 +76,7 @@
     rgba(59, 130, 246, 0.03) 0%, 
     rgba(139, 92, 246, 0.03) 100%
   );
-  padding: 2rem 0 4rem;
+  padding: 1rem 0 4rem;
   position: relative;
   overflow: hidden;
 }
